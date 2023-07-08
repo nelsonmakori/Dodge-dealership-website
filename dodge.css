@@ -1,0 +1,40 @@
+.dodgebutton{
+    color: rgb(255, 127, 172);
+}
+.navdodge ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navdodge li{
+    list-style: none;
+}
+.navdodge a{
+    text-decoration: none;
+    color: black;
+}
+.navdodge li a{
+    justify-content: space-between;
+}
+.spanish{
+    color: white;
+    text-align: center;
+    background-color: red;
+    height: 25px;
+    padding-top: 0.5rem;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url(dodge.images/jeeplatitude.png);
+    height: 450px;
+}
+.background{
+    color: white;
+    font-size: xx-large;
+    font-weight: 770;
+    text-align: center;
+    padding-top: 5rem;
+}
