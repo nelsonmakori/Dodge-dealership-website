@@ -38,3 +38,63 @@ body{
     text-align: center;
     padding-top: 5rem;
 }
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+button{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    width: 140px;
+    height: 40px;
+    border: none;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.footer img{
+    width: 100%;
+    height: auto;
+}
+.ram img{
+    width: 200px;
+    margin-left: 30px;
+}
+ .ram button{
+    margin-bottom: 200px;
+    
+    
+    
+}
+
+.pacifica img{
+    width: 200px;
+    margin-left: 40px;
+}
+.finacing img{
+    width:200px ;
+    margin-left: 40px;
+    height: 134px;
+}
+.service img{
+    width: 200px;
+    margin-right: 20px;
+    height: 134px;
+    margin-right: 53px;
+    margin-left: 35px;
+}
+.btn{
+    margin-left: 69px;
+    margin-top: -200px;
+}
+.finacing button{
+    margin-left: 69px;
+    margin-top: -900px;
+}
+ 
+
