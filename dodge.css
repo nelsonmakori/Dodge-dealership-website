@@ -24,12 +24,14 @@
     padding-top: 0.5rem;
 }
 body{
-    padding: 0;
-    margin: 0;
+    cursor: pointer;
+    
 }
 .main{
     background-image: url(dodge.images/jeeplatitude.png);
-    height: 450px;
+    height: 400px;
+    
+
 }
 .background{
     color: white;
@@ -56,45 +58,38 @@ button{
     display: flex;
     justify-content: space-between;
     margin-top: 25px;
-}
-.footer img{
-    width: 100%;
-    height: auto;
-}
-.ram img{
-    width: 200px;
-    margin-left: 30px;
-}
- .ram button{
-    margin-bottom: 200px;
-    
-    
-    
+    max-width: 100%;
 }
 
-.pacifica img{
-    width: 200px;
-    margin-left: 40px;
-}
-.finacing img{
-    width:200px ;
-    margin-left: 40px;
+.ram {
+    background-image: url(dodge.images/3500-1.jpg);
     height: 134px;
+    margin-left: 20px;
 }
-.service img{
-    width: 200px;
+ 
+
+
+.pacifica{
+    background-image: url(dodge.images/pacifica\ van.jpg);
+    height: 144px;
+    margin-left: 20px;
+}
+
+
+.service{
+    background-image: url(dodge.images/vehicle\ service.jpg);
+    height: 144px;
     margin-right: 20px;
-    height: 134px;
-    margin-right: 53px;
-    margin-left: 35px;
 }
 .btn{
     margin-left: 69px;
-    margin-top: -200px;
+    margin-top: 90px;
+    margin-right: 69px;
 }
-.finacing button{
-    margin-left: 69px;
-    margin-top: -900px;
+.finacing{
+    background-image: url(dodge.images/chrysler-1.jpg);
+    height: 144px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
- 
 

@@ -1,0 +1,14 @@
+
+.searchbar{
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    height: 45px;
+}
+.search{
+    padding-top: 27px;
+}
+.clear{
+    padding-top: 27px;
+}
+
