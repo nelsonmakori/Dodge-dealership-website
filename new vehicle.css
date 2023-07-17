@@ -11,4 +11,97 @@
 .clear{
     padding-top: 27px;
 }
+.awd img{
+    height: 20px;
+}
+.thirdrow img{
+    height: 20px;
+}
+.cruise img{
+    height: 20px;
+}
+.android img{
+    height: 20px;
+}
+.apple img{
+    height: 20px;
+}
+.climate img{
+    height: 20px;
+}
+.features{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border: 1px solid gray;
+    height: 36px;
+    font-size: x-small;
+    padding-top: 1rem;
+}
+.toa{
+    background-color: rgb(222, 19, 19);
+    border-radius: 30px;
+    border: none;
+    color: white;
+    height: 25px;
+    font-size: x-small;
+}
+.preowned{
+    height: 20px;
+    border-radius:30px ;
+    border: none;
+    font-size: x-small;
+}
+.certified{
+    height: 20px;
+    border-radius: 30px;
+    border: none;
+}
+.sebring img{
+    height: 40px;
+}
+.hyundai img{
+    height: 90px;
+}
+.carfax img{
+    height: 25px;
+}
+.purchase{
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+    padding: left 3rem;;
+    width: 250px;
+    height: 20px;
+    padding-top: 8px;
+    text-align: center;
+    font-size: 12px;
+    border: none;
+}
+.value{
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+    padding-left: 3rem;
+    width: 203px;
+    height: 26px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 5px;
+    border: none;
+}
+hr{
+    width: 280px;
+    margin-inline-start: 0px;
+}
+.hyundai{
+    font-size: 12px;
+    background-color: #dae1e1;
+}
+
+
+
+
+
+
 
