@@ -1,4 +1,6 @@
-
+body{
+    background-color: whitesmoke;
+}
 .searchbar{
     display:flex;
     justify-content: space-between;
@@ -58,7 +60,7 @@
     border: none;
 }
 .sebring img{
-    height: 40px;
+    height: 60px;
 }
 .hyundai img{
     height: 90px;
@@ -95,9 +97,44 @@ hr{
     margin-inline-start: 0px;
 }
 .hyundai{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.sebring{
+    background-color: white;
+
+}
+.stinger{
+    background-color: white;
+}
+.santafe{
+    background-color: white;
+}
+.Financing{
+    display:flex ;
+    justify-content: space-between;
+    font-size: 15px;
+    border: 1px solid black;
+    width: 250px;
+    height: 34px;
+    margin-top: 5px;
+    background-color: rgb(64, 64, 151);
+    color: white;
+}
+.capital{
+    padding-left: 12px;
+}
+.worth{
     font-size: 12px;
-    background-color: #dae1e1;
-    cursor: pointer;
+}
+.one{
+    font-size: 12px;
+    padding-right: 1rem;
+}
+.estimate{
+    font-weight: bolder;
+    font-size: 15px;
 }
 
 
