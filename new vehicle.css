@@ -100,6 +100,8 @@ hr{
     display: flex;
     justify-content: space-between;
     margin-top: 15px;
+    font-size: 12px;
+    align-items: stretch;
 }
 .sebring{
     background-color: white;
@@ -135,6 +137,9 @@ hr{
 .estimate{
     font-weight: bolder;
     font-size: 15px;
+}
+p{
+    line-height: 10%;
 }
 
 
