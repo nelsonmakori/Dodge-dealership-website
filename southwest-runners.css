@@ -12,6 +12,10 @@
     display:flex;
     margin: 13px;
     padding-top: 1.8rem;
+    cursor: pointer;
+}
+.navigation li:hover{
+    color: #942b2b;
 }
 .nav ul li{
     float:left;
@@ -25,7 +29,7 @@
 }
 .main{
     text-align: center;
-    color: red;
+    color:#d75353;
     font-size: 12px;
 }
 p{
@@ -39,4 +43,65 @@ p{
 }
 .welcome{
     color: red;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+.footer img{
+    height: 98px;
+    width: 170px;
+    margin-left: 20px;
+}
+.footer2{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+.location{
+    margin-right: 20px;
+}
+.hours{
+    margin-left: 69px;
+}
+.contact{
+    margin-left: 60px;
+}
+small{
+    color: #942b2b;
+}
+h3{
+    color:#942b2b;
+}
+.cell{
+    margin-left: 22px;
+}
+button{
+    height: 25px;
+    color: cadetblue;
+    font-size: 10px;
+    font-weight: 300;
+    background-color: white;
+    border-color: cadetblue;
+}
+.footer3{
+    background-color: #6d6969df;
+    height: 30px;
+    padding-top: 1.1rem;
+    font-size: 12px;
+    color: white;
+    margin-top: 20px;
+}
+.media{
+    display: flex;
+    margin-left: 5px;
+    justify-content: end;
+    margin-right: 150px;
+}
+.media img{
+    height: 15px;
+    margin-left:6px;
+    margin-bottom: -69px;
 }
