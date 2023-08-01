@@ -1,0 +1,73 @@
+th img{
+    height: 18px;
+}
+tr{
+    line-height: 45px;
+    margin-right: 18px;
+}
+.country{
+    padding: left 85px;px;
+}
+th,td{
+    padding:1rem;
+}
+.gold{
+    padding-left: 100px;
+}
+.medal{
+    padding-left: 70px;
+}
+table{
+    background-color: rgb(49, 36, 36);
+    margin-left: 130px;
+    cursor: pointer;
+    color: white;
+    width: 700px;
+    margin-top: 30px;
+}
+caption{
+    background-color: rgb(122, 154, 214);
+    height: 35px;
+    text-align: left;
+    padding-top: 0.9rem;
+    padding-left: 0.4rem;
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+tr:nth-of-type(2n){
+    background-color: black;
+}
+select{
+    margin-left: 524px;
+    height: 30px;
+    font-size: 12px;
+    padding-left: 1rem;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 135px;
+}
+.medal1{
+    margin-right: 150px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    text-align: center;
+    padding-top: 7px;
+    height: 30px;
+    margin-right: -1px;
+}
+.placing{
+    background-color: white;
+    color: rgb(15, 3, 3);
+    width: 150px;
+    text-align: center;
+    padding-top: 7px;
+}
+body{
+    background-image: url(dodge.images/truck\ and\ field.jpg);
+    background-repeat: no-repeat center center fixed;
+    background-size: cover;
+}
