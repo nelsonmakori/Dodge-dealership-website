@@ -9,7 +9,7 @@ tr{
     padding: left 85px;px;
 }
 th,td{
-    padding:1rem;
+    padding: 0.9rem;rem;
 }
 .gold{
     padding-left: 100px;
@@ -70,4 +70,8 @@ body{
     background-image: url(dodge.images/truck\ and\ field.jpg);
     background-repeat: no-repeat center center fixed;
     background-size: cover;
+    font-size: 10px;
+}
+.flag{
+    height: 10px;
 }
